@@ -1,1 +1,11 @@
-Huzza for github! First push.
+Fully Loaded is a Google Chrome extensions design to allow users 1 button access to Google's page speed API.
+
+Here are some useful links - 
+
+Link to the Extension in the Chrome store:
+https://chrome.google.com/webstore/detail/edlmpmdkfeimmbhfnlllpnkbokbohplp?utm_source=chrome-ntp-icon
+
+Tools I used to create the code:
+http://code.google.com/apis/pagespeedonline/v1/getting_started.html
+http://code.google.com/chrome/extensions/getstarted.html
+http://www.youtube.com/watch?v=e3McMaHvlBY

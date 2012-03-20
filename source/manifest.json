@@ -1,0 +1,19 @@
+{
+  "name": "Fully Loaded",
+  "version": "4",
+  "description": "How long does it take for your page to get Fully Loaded? It takes 1 click to find out.",
+  "icons": { "16": "icon16.png",
+           "48": "icon48.png",
+          "128": "icon128.png" },
+  "browser_action": {
+	"default_title": "Fully Loaded Speed Test",
+	"popup": "fully-loaded.html",
+	"default_icon": "icon16.png"
+  },
+  "permissions": [
+    "http://ajax.googleapis.com/",
+	"https://www.googleapis.com/",
+	"http://chart.apis.google.com/",
+	"tabs"
+  ]
+}
